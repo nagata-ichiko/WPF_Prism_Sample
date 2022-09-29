@@ -1,0 +1,2 @@
+# WPF_Prism_Sample
+PrismとWPFを使用した簡単なWindowsアプリケーションのサンプルです。
