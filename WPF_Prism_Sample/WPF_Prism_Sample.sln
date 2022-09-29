@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Prism_Sample", "WPF_Prism_Sample.csproj", "{BC058C3F-EEC3-4FA7-BF63-2C276F3F527C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC058C3F-EEC3-4FA7-BF63-2C276F3F527C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC058C3F-EEC3-4FA7-BF63-2C276F3F527C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC058C3F-EEC3-4FA7-BF63-2C276F3F527C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC058C3F-EEC3-4FA7-BF63-2C276F3F527C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {433506C2-8624-4DDF-8852-CCE5FBE73DED}
+	EndGlobalSection
+EndGlobal
